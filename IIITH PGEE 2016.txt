@@ -1,0 +1,48 @@
+------------------------------------------------------------------
+PGEE 2016
+------------------------------------------------------------------
+Paper 1: Aptitude (45 questions, MCQ/MSQ within 90 minutes)
+
+1. 2 english comprehensions each with 5 questions, no antonym and synonyms.
+   level was good (not easy at all).
+
+2. 3 questions on pnc, 3 questions of probability.
+
+3. many questions on logical reasoning.
+------------------------------------------------------------------
+Paper 2: Technical (60 questions, MCQ/MSQ within 90 minutes)
+
+1. 5 questions of Operating system. All were easy, 1 from cpu scheduling, 1 from page fault service time, 
+   1 was deadlock charactestics, 2 from page replacement
+
+2. 6 questions from DBMS. 
+   3 reations were given with the attributes and 5 questions on queries were asked, tuple calculus, relational algebra.
+   1 question on BCNF and 3NF properties.
+   2 dbms questions on functional dependency, to find the key in the relation with the given functional dependencies.
+
+3. 12-13 C output questions were asked. (Basics should be clear, not very tricky ones.)
+   Few questions were error recoganisation. 
+   2-3 on pointers and some on arrays.
+
+4. 4-5 questions from computer networks. (Easy)
+   One question on transmission time and in other one propagation time.
+   Protocol for electronic mail was asked (SMTP).
+   No. of networks possible for class C in IPv4.
+
+5. Algorithms
+   1 question was which algorithm time complexity does not depend on size of the input.
+   1 question was out of the given options, in which of the following insert, delete and find min. operation can be carried out in log n time.
+   1 question was on optimal number of multiplications operations required to multiply 5 given matrices.
+   1 was to solve recurrence relation
+   3-4 questions on BST construction and pre and post oreder traversal.
+   
+6. Mathematics
+   1 question was to find out the solution of the given equations.
+   few questions on relations
+   1 was possible numbers of non negative solution  for x+y+z = 11.
+   2-3 questions on gcd.
+   
+7. Computer Organisation
+   1 was floating point conversion (to convert -1.5 in single precision floating point).
+   1 was to find out the square of binary number 1011 in hexadecimal.    
+------------------------------------------------------------------
